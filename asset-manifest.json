@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/market-widget-assignment/static/css/main.938819dd.chunk.css",
+    "main.js": "/market-widget-assignment/static/js/main.26c94aa2.chunk.js",
+    "main.js.map": "/market-widget-assignment/static/js/main.26c94aa2.chunk.js.map",
+    "runtime-main.js": "/market-widget-assignment/static/js/runtime-main.275edfd2.js",
+    "runtime-main.js.map": "/market-widget-assignment/static/js/runtime-main.275edfd2.js.map",
+    "static/js/2.e53f5541.chunk.js": "/market-widget-assignment/static/js/2.e53f5541.chunk.js",
+    "static/js/2.e53f5541.chunk.js.map": "/market-widget-assignment/static/js/2.e53f5541.chunk.js.map",
+    "index.html": "/market-widget-assignment/index.html",
+    "precache-manifest.98e6c8b193e4e70d881b4676d695ddd7.js": "/market-widget-assignment/precache-manifest.98e6c8b193e4e70d881b4676d695ddd7.js",
+    "service-worker.js": "/market-widget-assignment/service-worker.js",
+    "static/css/main.938819dd.chunk.css.map": "/market-widget-assignment/static/css/main.938819dd.chunk.css.map",
+    "static/js/2.e53f5541.chunk.js.LICENSE.txt": "/market-widget-assignment/static/js/2.e53f5541.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/market-widget-assignment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.275edfd2.js",
+    "static/js/2.e53f5541.chunk.js",
+    "static/css/main.938819dd.chunk.css",
+    "static/js/main.26c94aa2.chunk.js"
+  ]
+}
